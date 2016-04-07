@@ -2,24 +2,16 @@
 
 Projektidee: Meine Idee ist es ein Quiz zu erstellen. 
 
-Das Quiz hat rund 10 Fragen die mit dem HTML & PHP Thema zu tun haben. 
-
 Pro Frageseite gibt es eine Frage und 4 Antwortmöglichkeiten, 
 von der nur eine richtig ist. 
 
-Man kann nur eine Antwortmöglichkeit auswählen, über Radiobuttons. 
+Man kann nur eine Antwortmöglichkeit auswählen.
 
 Über "weiter" und "zurück" Buttons kann man zwischen den Fragen hin und her wechseln. 
 
 Bei der letzten Seite ändert sich der "weiter" Button zu "abgeben". 
 
-Anschliessend bekommt man eine 
-Auswertung der Fragen mit dem Feedback wie viele richtig und Flasch sind. 
-
-Die Antworten werden mit hilfe von Php kontrolliert. 
-
-Um highscore unterschiede zu haben bei allen richtigen Antowrten 
-läuft eine Stop-Uhr mit.
+Anschliessend bekommt man eine Auswertung der Fragen mit dem Feedback wie viele richtig und flasch sind. 
 
 === Feedback Alpers, 2016-04-06 ===
 
