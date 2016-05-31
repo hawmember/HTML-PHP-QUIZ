@@ -190,3 +190,9 @@ Bei der nächsten Aufgabe werden Sie dann wieder an Projekten anderer Studierend
 
 Viele Grüße und viel Erfolg,
 Markus Alpers
+
+===================================
+=== Feedback Alpers, 2016-05-31 ===
+===================================
+
+Diese Datei scheint mit der Projektidee.txt identisch zu sein. Wenn sie das ist, bitte löschen, ansonsten entsprechend der Vorgaben umbenennen.
