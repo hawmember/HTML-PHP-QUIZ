@@ -9,9 +9,19 @@ Man kann nur eine Antwortmöglichkeit auswählen.
 
 Über "weiter" und "zurück" Buttons kann man zwischen den Fragen hin und her wechseln. 
 
-Bei der letzten Seite ändert sich der "weiter" Button zu "abgeben". 
+Bei der letzten Seite ändert sich der "weiter" Button zu "abgeben".
 
-Anschliessend bekommt man eine Auswertung der Fragen mit dem Feedback wie viele richtig und flasch sind. 
+Anschliessend bekommt man eine Auswertung der Fragen mit dem Feedback wie viele richtig und falsch sind. 
+
+Eine Highscore-Liste zeigt welche Nutzer am besten waren/sind.
+
+Es soll ein Admin-Login und ein Nutzer-Login geben.
+
+Die Fragen können von Nutzer mit einem Feedback Formular bewertet werden.
+
+Unter dem Admin-Login kann man das Feedback einsehen und Fragen ändern, bewerten und löschen.
+
+Unter dem Nutzer-Login kann man alte Ergebnisse einsehen, bekommt eine Statusmeldung über das geschrieben Feedback, kann das Quiz starten und man kann zur Highscore-Liste kommen.    
 
 ===================================
 === Feedback Alpers, 2016-04-06 ===
